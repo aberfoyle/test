@@ -1,0 +1,3 @@
+  PID TTY      STAT   TIME COMMAND
+    1 ?        Ss     0:00 /bin/bash
+   40 ?        R+     0:00 ps -ax
